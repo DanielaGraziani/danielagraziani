@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋🏻, I'm Daniela Díaz Graziani 👩🏻‍💻</h1>
+<img align="right" alt="banner" height="400" width="500" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif"/>
+<h1 align="left">Hi 👋🏻, I'm Daniela Díaz Graziani</h1>
 <h3 align="center">Full stack developer specifically oriented to front-end.</h3>
 
 
