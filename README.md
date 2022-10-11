@@ -1,8 +1,10 @@
 
 
-<div align="center"><img align="center" alt="banner" height="400" width="500" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif"/></div>
+<div align="center"><img align="center" alt="banner" height="270" width="500" src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif"/></div>
 <h1 align="center">Hi 👋🏻, I'm Daniela Díaz Graziani</h1>
 <h3 align="center">Full stack developer specifically oriented to front-end.</h3>
+
+
 
 <br>
 
